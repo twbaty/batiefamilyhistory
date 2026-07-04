@@ -47,5 +47,5 @@ exclude:
   - convert_blogger_to_jekyll.py
   - batiefamilyhistory-wordpress.xml
   - batiefamilyhistory-wordpress.zip
-  - "*.jpg"
+  - "Screenshot*.jpg"
   - README.md
