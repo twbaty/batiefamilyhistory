@@ -23,17 +23,27 @@ a:hover { text-decoration: underline; color: #ff1900; }
   background-color: #ccb666;
   background-image: url('{{ site.baseurl }}/assets/images/header-bg.jpg');
   background-size: cover;
-  background-position: center top;
+  background-position: center 40%;
   padding: 40px 30px;
-  min-height: 130px;
+  min-height: 210px;
   display: flex;
   align-items: center;
+  position: relative;
+}
+
+.blog-header::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.38);
 }
 
 .header-inner {
   max-width: 960px;
   margin: 0 auto;
   width: 100%;
+  position: relative;
+  z-index: 1;
 }
 
 .blog-header h1 {
@@ -46,14 +56,14 @@ a:hover { text-decoration: underline; color: #ff1900; }
 .blog-header h1 a {
   color: #fff;
   text-decoration: none;
-  text-shadow: 1px 1px 3px rgba(0,0,0,0.6);
+  text-shadow: 2px 2px 6px rgba(0,0,0,0.85);
 }
 
 .blog-description {
-  color: rgba(255,255,255,0.9);
+  color: rgba(255,255,255,0.95);
   font-size: 0.95em;
   font-style: italic;
-  text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.85);
   max-width: 620px;
 }
 
