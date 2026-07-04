@@ -16,7 +16,7 @@ Base Hospital 49 was up and running in August of 1918 in Allerey, France.<br />
 Lela left for Base Hospital 49 on 26 Aug 1918.<br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkpztSIShyCQ8c3AzzCLO3d8hnYhKLPdBka8aoUUlQOtzMzSwOiD44SEJbn1VDbhhW_TJhFVdmzSVGavbcvK8akTmuDJMZh4pzMVo5DWZOC9wsQ9U0NKzWFBnXElzf0lAmfo3Ns8yDy19w/s1600/Lela+Batie+-+Base+Hospital+49.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="580" data-original-width="973" height="190" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkpztSIShyCQ8c3AzzCLO3d8hnYhKLPdBka8aoUUlQOtzMzSwOiD44SEJbn1VDbhhW_TJhFVdmzSVGavbcvK8akTmuDJMZh4pzMVo5DWZOC9wsQ9U0NKzWFBnXElzf0lAmfo3Ns8yDy19w/s320/Lela+Batie+-+Base+Hospital+49.jpg" width="320" /></a></div>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkpztSIShyCQ8c3AzzCLO3d8hnYhKLPdBka8aoUUlQOtzMzSwOiD44SEJbn1VDbhhW_TJhFVdmzSVGavbcvK8akTmuDJMZh4pzMVo5DWZOC9wsQ9U0NKzWFBnXElzf0lAmfo3Ns8yDy19w/s1600/Lela+Batie+-+Base+Hospital+49.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="190" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkpztSIShyCQ8c3AzzCLO3d8hnYhKLPdBka8aoUUlQOtzMzSwOiD44SEJbn1VDbhhW_TJhFVdmzSVGavbcvK8akTmuDJMZh4pzMVo5DWZOC9wsQ9U0NKzWFBnXElzf0lAmfo3Ns8yDy19w/s320/Lela+Batie+-+Base+Hospital+49.jpg" width="320" /></a></div>
 <br />
 The Hospital ended operations in Jan 1919, a few months after the Armistice was signed ending WWI on 11 Nov, 1918.<br />
 <br />

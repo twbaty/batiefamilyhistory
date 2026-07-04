@@ -61,7 +61,7 @@ were <br /></i><br />
 <div>
 <span style="color: #333333; font-family: inherit;"><br /></span></div>
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDGUH2Jy6nOCtImOvlzPToVriLFqAHg587xqjZfF3c5gCJ7i12RCChvvG4QT-xA7M4B2gZOZy9crGS9V2qiT8VsOf97AZXvpZsFe181x7pQwkOg3cDYLCtTiEJzIQSDAa5_m0cGToq46Z/s1600/Steven+Wayne+Bradbury+-+No+Place+To+Hide+-+Excerpt.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="151" data-original-width="607" height="156" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDGUH2Jy6nOCtImOvlzPToVriLFqAHg587xqjZfF3c5gCJ7i12RCChvvG4QT-xA7M4B2gZOZy9crGS9V2qiT8VsOf97AZXvpZsFe181x7pQwkOg3cDYLCtTiEJzIQSDAa5_m0cGToq46Z/s640/Steven+Wayne+Bradbury+-+No+Place+To+Hide+-+Excerpt.jpg" width="640" /></a></div>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDGUH2Jy6nOCtImOvlzPToVriLFqAHg587xqjZfF3c5gCJ7i12RCChvvG4QT-xA7M4B2gZOZy9crGS9V2qiT8VsOf97AZXvpZsFe181x7pQwkOg3cDYLCtTiEJzIQSDAa5_m0cGToq46Z/s1600/Steven+Wayne+Bradbury+-+No+Place+To+Hide+-+Excerpt.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="156" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDGUH2Jy6nOCtImOvlzPToVriLFqAHg587xqjZfF3c5gCJ7i12RCChvvG4QT-xA7M4B2gZOZy9crGS9V2qiT8VsOf97AZXvpZsFe181x7pQwkOg3cDYLCtTiEJzIQSDAa5_m0cGToq46Z/s640/Steven+Wayne+Bradbury+-+No+Place+To+Hide+-+Excerpt.jpg" width="640" /></a></div>
 <div>
 <span style="color: #333333; font-family: inherit;"><br /></span></div>
 <div>

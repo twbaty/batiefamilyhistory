@@ -26,7 +26,7 @@ Reta was most likely in that period of prenatal confinement.<br />
 <br />
 <br />
 <div class="separator" style="clear: both; text-align: center;">
-<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGoGMFrJ1QjXeePQCqnockyCeYZxBDxaCFY5EkNT7JY4K8OEubUkqD9WdyGYdpWNHwZ8i-18hzuEDWqiiwPUFztkfa5D89hrwCQMtBsTLgJ7CZPc308ZSdk1IB7t4BS55Pdy-XDRqdDGDI/s1600/Reta+Shipley+-+Death.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="239" data-original-width="573" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGoGMFrJ1QjXeePQCqnockyCeYZxBDxaCFY5EkNT7JY4K8OEubUkqD9WdyGYdpWNHwZ8i-18hzuEDWqiiwPUFztkfa5D89hrwCQMtBsTLgJ7CZPc308ZSdk1IB7t4BS55Pdy-XDRqdDGDI/s1600/Reta+Shipley+-+Death.jpg" /></a></div>
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGoGMFrJ1QjXeePQCqnockyCeYZxBDxaCFY5EkNT7JY4K8OEubUkqD9WdyGYdpWNHwZ8i-18hzuEDWqiiwPUFztkfa5D89hrwCQMtBsTLgJ7CZPc308ZSdk1IB7t4BS55Pdy-XDRqdDGDI/s1600/Reta+Shipley+-+Death.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGoGMFrJ1QjXeePQCqnockyCeYZxBDxaCFY5EkNT7JY4K8OEubUkqD9WdyGYdpWNHwZ8i-18hzuEDWqiiwPUFztkfa5D89hrwCQMtBsTLgJ7CZPc308ZSdk1IB7t4BS55Pdy-XDRqdDGDI/s1600/Reta+Shipley+-+Death.jpg" /></a></div>
 <div class="separator" style="clear: both; text-align: center;">
 </div>
 <br />
