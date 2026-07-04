@@ -12,7 +12,11 @@ body {
   font-size: 14px;
   line-height: 1.7;
   color: #222;
-  background: #ddd5c8;
+  background-color: #513831;
+  background-image: url('{{ site.baseurl }}/assets/images/header-bg.jpg');
+  background-size: cover;
+  background-position: center top;
+  background-attachment: fixed;
 }
 
 a { color: #993300; text-decoration: none; }
@@ -20,10 +24,7 @@ a:hover { text-decoration: underline; color: #ff1900; }
 
 /* ---- Header ---- */
 .blog-header {
-  background-color: #ccb666;
-  background-image: url('{{ site.baseurl }}/assets/images/header-bg.jpg');
-  background-size: cover;
-  background-position: center 40%;
+  background: transparent;
   padding: 40px 30px;
   min-height: 210px;
   display: flex;
@@ -69,7 +70,7 @@ a:hover { text-decoration: underline; color: #ff1900; }
 
 /* ---- Nav bar ---- */
 .blog-nav {
-  background: #fff9ee;
+  background: rgba(255, 249, 238, 0.92);
   border-bottom: 1px solid #ccc;
   padding: 0 30px;
 }
@@ -88,7 +89,7 @@ a:hover { text-decoration: underline; color: #ff1900; }
 
 /* ---- Outer wrapper / two-column layout ---- */
 .outer-wrapper {
-  background: #ddd5c8;
+  background: transparent;
   padding: 20px 0 40px;
 }
 
