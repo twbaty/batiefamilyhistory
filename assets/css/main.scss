@@ -11,16 +11,16 @@ body {
   font-family: Georgia, 'Times New Roman', serif;
   font-size: 14px;
   line-height: 1.7;
-  color: #333;
-  background: #f4f0e8;
+  color: #222;
+  background: #513831;
 }
 
-a { color: #4a7c9e; text-decoration: none; }
-a:hover { text-decoration: underline; color: #2a5c7e; }
+a { color: #993300; text-decoration: none; }
+a:hover { text-decoration: underline; color: #ff1900; }
 
 /* ---- Header ---- */
 .blog-header {
-  background-color: #5a4a2a;
+  background-color: #ccb666;
   background-image: url('{{ site.baseurl }}/assets/images/header-bg.jpg');
   background-size: cover;
   background-position: center top;
@@ -59,7 +59,7 @@ a:hover { text-decoration: underline; color: #2a5c7e; }
 
 /* ---- Nav bar ---- */
 .blog-nav {
-  background: #e8e0d0;
+  background: #fff9ee;
   border-bottom: 1px solid #ccc;
   padding: 0 30px;
 }
@@ -78,7 +78,7 @@ a:hover { text-decoration: underline; color: #2a5c7e; }
 
 /* ---- Outer wrapper / two-column layout ---- */
 .outer-wrapper {
-  background: #f4f0e8;
+  background: #513831;
   padding: 20px 0 40px;
 }
 
@@ -94,7 +94,7 @@ a:hover { text-decoration: underline; color: #2a5c7e; }
 .main-content {
   flex: 1;
   min-width: 0;
-  background: #fff;
+  background: #fff9ee;
   border: 1px solid #ddd;
   padding: 20px 24px;
 }
@@ -113,8 +113,8 @@ a:hover { text-decoration: underline; color: #2a5c7e; }
   margin-bottom: 4px;
 }
 
-.post-title a { color: #4a7c9e; }
-.post-title a:hover { color: #2a5c7e; }
+.post-title a { color: #993300; }
+.post-title a:hover { color: #cc4400; }
 
 .post-meta {
   font-size: 0.82em;
@@ -126,7 +126,7 @@ a:hover { text-decoration: underline; color: #2a5c7e; }
 
 .read-more {
   font-size: 0.85em;
-  color: #4a7c9e;
+  color: #993300;
   margin-left: 4px;
 }
 
@@ -137,11 +137,11 @@ a:hover { text-decoration: underline; color: #2a5c7e; }
 }
 
 .post-labels a { color: #888; }
-.post-labels a:hover { color: #4a7c9e; }
+.post-labels a:hover { color: #993300; }
 
 .post-divider {
   border: none;
-  border-top: 1px solid #e8e0d0;
+  border-top: 1px solid #fff9ee;
   margin: 16px 0;
 }
 
@@ -150,7 +150,7 @@ article.post { }
 
 article.post .post-title {
   font-size: 1.4em;
-  color: #4a7c9e;
+  color: #993300;
   margin-bottom: 4px;
 }
 
@@ -166,7 +166,7 @@ article.post .post-title {
 .post-nav {
   margin-top: 24px;
   padding-top: 16px;
-  border-top: 1px solid #e8e0d0;
+  border-top: 1px solid #fff9ee;
   display: flex;
   justify-content: space-between;
   font-size: 0.85em;
@@ -182,7 +182,7 @@ article.post .post-title {
   color: #888;
 }
 
-.pagination a { color: #4a7c9e; }
+.pagination a { color: #993300; }
 
 /* ---- Sidebar ---- */
 .sidebar-section {
@@ -199,7 +199,7 @@ article.post .post-title {
   color: #888;
   padding: 8px 12px;
   border-bottom: 1px solid #e0d8cc;
-  background: #f9f6f0;
+  background: #fff9ee;
 }
 
 .sidebar-content { padding: 10px 12px; font-size: 0.88em; }
@@ -212,7 +212,7 @@ article.post .post-title {
 
 .sidebar-links li { padding: 3px 0; border-bottom: 1px dotted #eee; }
 .sidebar-links li:last-child { border-bottom: none; }
-.sidebar-links a { color: #4a7c9e; }
+.sidebar-links a { color: #993300; }
 
 /* ---- Blog Archive ---- */
 .archive-list {
@@ -227,14 +227,14 @@ article.post .post-title {
   background: none;
   border: none;
   cursor: pointer;
-  color: #4a7c9e;
+  color: #993300;
   font-size: 0.9em;
   padding: 2px 0;
   text-align: left;
   width: 100%;
 }
 
-.archive-toggle:hover { color: #2a5c7e; }
+.archive-toggle:hover { color: #cc4400; }
 
 .arrow { font-size: 0.75em; margin-right: 4px; color: #888; }
 
@@ -253,7 +253,7 @@ article.post .post-title {
 
 .archive-posts li { padding: 1px 0; }
 .archive-posts a { color: #555; font-size: 0.92em; }
-.archive-posts a:hover { color: #4a7c9e; }
+.archive-posts a:hover { color: #993300; }
 
 /* ---- Search ---- */
 .search-form { padding: 10px 12px; display: flex; gap: 6px; }
@@ -268,7 +268,7 @@ article.post .post-title {
 
 .search-btn {
   padding: 4px 10px;
-  background: #e8e0d0;
+  background: #fff9ee;
   border: 1px solid #ccc;
   cursor: pointer;
   font-size: 0.85em;
@@ -280,11 +280,11 @@ article.post .post-title {
 /* ---- About Me ---- */
 .about-me { font-size: 0.88em; }
 .about-me p { margin-bottom: 6px; }
-.about-me a { color: #4a7c9e; font-size: 0.9em; }
+.about-me a { color: #993300; font-size: 0.9em; }
 
 /* ---- Footer ---- */
 .blog-footer {
-  background: #e8e0d0;
+  background: #fff9ee;
   border-top: 1px solid #ccc;
   padding: 16px 30px;
   text-align: center;
