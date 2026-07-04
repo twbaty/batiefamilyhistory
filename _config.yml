@@ -1,0 +1,51 @@
+title: Batie Family History
+description: Researching the Batie/Baty family originating with Thomas Batie in Northumberland England about 1720.
+baseurl: "/batiefamilyhistory"
+url: "https://twbaty.github.io"
+
+author:
+  name: Batie Family
+  about: "Genealogy researcher tracing the Batie/Baty family from Thomas Batie of Northumberland, England, circa 1720."
+
+links:
+  - title: Ancestry.com
+    url: https://www.ancestry.com
+  - title: Find A Grave
+    url: https://www.findagrave.com
+  - title: Mark Every Grave
+    url: https://markeverygrave.com
+  - title: Newspapers.com
+    url: https://www.newspapers.com
+  - title: Pond Mills Cemetery
+    url: "#"
+  - title: Teller / English Settlement Presbyterian Cemetery
+    url: "#"
+  - title: Fold3
+    url: https://www.fold3.com
+
+permalink: /:year/:month/:day/:title/
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+
+paginate: 5
+paginate_path: "/page:num/"
+
+timezone: America/Chicago
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Blogger/
+  - convert_blogger_to_wxr.py
+  - convert_blogger_to_jekyll.py
+  - batiefamilyhistory-wordpress.xml
+  - batiefamilyhistory-wordpress.zip
+  - "*.jpg"
+  - README.md

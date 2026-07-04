@@ -1,0 +1,22 @@
+backend:
+  name: github
+  repo: twbaty/batiefamilyhistory
+  branch: main
+  auth_type: pkce
+  app_id: REPLACE_WITH_YOUR_OAUTH_APP_CLIENT_ID
+
+media_folder: "assets/images/uploads"
+public_folder: "/batiefamilyhistory/assets/images/uploads"
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Labels", name: "tags", widget: "list", required: false }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Published", name: "published", widget: "boolean", default: true }

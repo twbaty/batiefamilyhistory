@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h2 class="post-title">{{ page.title }}</h2>
+  <div class="post-meta">{{ page.date | date: "%A, %B %-d, %Y" }}</div>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  {% if page.tags.size > 0 %}
+  <div class="post-labels">
+    Labels:
+    {% for tag in page.tags %}
+      <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}/">{{ tag }}</a>{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  <div class="post-nav">
+    {% if page.previous.url %}
+      <a class="prev-post" href="{{ site.baseurl }}{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
+    {% endif %}
+    {% if page.next.url %}
+      <a class="next-post" href="{{ site.baseurl }}{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
+    {% endif %}
+  </div>
+</article>

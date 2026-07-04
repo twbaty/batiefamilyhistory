@@ -1,0 +1,68 @@
+<div class="sidebar-section">
+  <h2 class="sidebar-title">About Me</h2>
+  <div class="sidebar-content about-me">
+    <p><strong>{{ site.author.name }}</strong></p>
+    <p>{{ site.author.about }}</p>
+    <a href="{{ site.baseurl }}/about/">View my complete profile</a>
+  </div>
+</div>
+
+<div class="sidebar-section">
+  <h2 class="sidebar-title">Sites I find useful</h2>
+  <ul class="sidebar-links">
+    {% for link in site.links %}
+    <li><a href="{{ link.url }}" target="_blank" rel="noopener">{{ link.title }}</a></li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="sidebar-section">
+  <h2 class="sidebar-title">Blog Archive</h2>
+  <ul class="archive-list">
+    {% assign postsByYear = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
+    {% for year in postsByYear %}
+    <li class="archive-year">
+      <button class="archive-toggle" onclick="toggleArchive('y{{ year.name }}')">
+        <span class="arrow" id="arrow-y{{ year.name }}">&#9658;</span>
+        {{ year.name }} ({{ year.items | size }})
+      </button>
+      <ul id="y{{ year.name }}" class="archive-months" style="display:none;">
+        {% assign postsByMonth = year.items | group_by_exp: "post", "post.date | date: '%B'" %}
+        {% for month in postsByMonth %}
+        <li class="archive-month">
+          <span>{{ month.name }} ({{ month.items | size }})</span>
+          <ul class="archive-posts">
+            {% for post in month.items %}
+            <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% endfor %}
+      </ul>
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="sidebar-section">
+  <h2 class="sidebar-title">Search This Blog</h2>
+  <form action="https://www.google.com/search" method="get" target="_blank" class="search-form">
+    <input type="hidden" name="sitesearch" value="{{ site.url }}{{ site.baseurl }}">
+    <input type="text" name="q" placeholder="Search..." class="search-input">
+    <button type="submit" class="search-btn">Search</button>
+  </form>
+</div>
+
+<script>
+function toggleArchive(id) {
+  var el = document.getElementById(id);
+  var arrow = document.getElementById('arrow-' + id);
+  if (el.style.display === 'none') {
+    el.style.display = 'block';
+    arrow.innerHTML = '&#9660;';
+  } else {
+    el.style.display = 'none';
+    arrow.innerHTML = '&#9658;';
+  }
+}
+</script>
