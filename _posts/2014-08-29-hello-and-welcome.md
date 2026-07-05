@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Hello and Welcome!"
+title: Hello and Welcome!
 date: 2014-08-29 11:20:00 +0000
 published: true
 ---
-
-I've been trying to figure out how to get information about the Batie family to the world. &nbsp;I thought I would give Blogger a try.
+I've been trying to figure out how to get information about the Batie family to the world. I thought I would give Blogger a try.  I have since moved to another hosting site - netlify.app.
 
 In 2006 I took over the role of historian from Howard Batie - thanks Howard! &nbsp;I have recently begun focusing time on expanding the breadth of our tree, only to realize I don't have the contacts that Howard had. &nbsp;As a result, I have not had the opportunity to continue the often awaited "Batie Lettergram". &nbsp;This is my attempt at reviving the idea of the Lettergram.
 
@@ -54,7 +53,7 @@ be committing suicide, he would have a hostile reception - no place for
 any French settler."&nbsp;</i> 
 
 <div style="text-align: center;">
-~ Tom ~ 
+\~ Tom \~ 
 
 <i style="font-family: 'Book Antiqua';">CADECBAB</i>
 
