@@ -4,8 +4,6 @@ backend:
   branch: master
   auth_type: pkce
   app_id: Ov23liiK6cEnrxWWhP1G
-  base_url: https://twbaty.github.io
-  auth_endpoint: batiefamilyhistory/admin/
 
 media_folder: "assets/images/uploads"
 public_folder: "/batiefamilyhistory/assets/images/uploads"
