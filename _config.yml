@@ -7,6 +7,8 @@ author:
   name: Batie Family
   about: "Genealogy researcher tracing the Batie/Baty family from Thomas Batie of Northumberland, England, circa 1720."
 
+image: /assets/images/header-bg.jpg
+
 links:
   - title: Ancestry.com
     url: https://www.ancestry.com
@@ -29,6 +31,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-seo-tag
 
 paginate: 5
 paginate_path: "/page:num/"
