@@ -42,13 +42,3 @@ kramdown:
 exclude:
   - Gemfile
   - Gemfile.lock
-  - Blogger/
-  - convert_blogger_to_wxr.py
-  - convert_blogger_to_jekyll.py
-  - batiefamilyhistory-wordpress.xml
-  - batiefamilyhistory-wordpress.zip
-  - "Screenshot*.jpg"
-  - README.md
-  - ack.html
-  - forward.html
-  - surnames.html
