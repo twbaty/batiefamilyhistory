@@ -10,6 +10,7 @@
 # WHAT TRIGGERS A DEPLOY:
 #   - Any push to the master branch (including CMS saves)
 #   - That's it. No scheduled builds, no manual triggers needed.
+#   - Netlify auto-builds are STOPPED — GitHub Actions is the only build path.
 #
 # WHAT DOES NOT TRIGGER A DEPLOY:
 #   - Pushes to any other branch
