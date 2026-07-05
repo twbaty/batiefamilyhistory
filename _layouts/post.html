@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+
 <article class="post">
   <h2 class="post-title">{{ page.title }}</h2>
   <div class="post-meta">{{ page.date | date: "%A, %B %-d, %Y" }}</div>
@@ -18,6 +20,15 @@ layout: default
     {% endfor %}
   </div>
   {% endif %}
+
+  <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+  <script>
+    document.querySelectorAll('.post-image a').forEach(function(a) {
+      a.classList.add('glightbox');
+      a.removeAttribute('target');
+    });
+    GLightbox({ selector: '.glightbox', touchNavigation: true, loop: false });
+  </script>
 
   <div class="post-nav">
     {% if page.previous.url %}
