@@ -45,3 +45,4 @@ kramdown:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - vendor/
