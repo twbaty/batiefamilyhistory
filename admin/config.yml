@@ -1,12 +1,9 @@
 backend:
-  name: github
-  repo: twbaty/batiefamilyhistory
+  name: git-gateway
   branch: master
-  auth_type: pkce
-  app_id: Ov23liiK6cEnrxWWhP1G
 
 media_folder: "assets/images/uploads"
-public_folder: "/batiefamilyhistory/assets/images/uploads"
+public_folder: "/assets/images/uploads"
 
 collections:
   - name: "posts"
