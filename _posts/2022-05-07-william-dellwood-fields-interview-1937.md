@@ -5,14 +5,19 @@ date: 2022-05-07 18:11:00 +0000
 published: true
 ---
 
-<p>&nbsp;Biography Form</p><p>Works Progress Administration</p>Indian-Pioneer History Project for Oklahoma <br /><br />
+<p>&nbsp;Biography Form</p>
+
+<p>Works Progress Administration</p>
+Indian-Pioneer History Project for Oklahoma 
 
 <p class="MsoNormal" style="line-height: normal; margin-bottom: 0in;">Interview with
 William Dellwood Fields now living and settled in the Choctaw Nation.<span style="mso-spacerun: yes;">&nbsp; </span>He is seventy-eight years of age and lives in
 Red Oak.<o:p></o:p></p>
 
 <p class="MsoNormal" style="line-height: normal; margin-bottom: 0in;">Field Worker, Bradley
-Bolinger; June 16, 1937</p><p class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><o:p></o:p></p>
+Bolinger; June 16, 1937</p>
+
+<p class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><o:p></o:p></p>
 
 <p class="MsoNormal" style="line-height: normal; margin-bottom: 0in;"><o:p>&nbsp;</o:p></p>
 
@@ -239,8 +244,15 @@ boy that he belonged to a regiment of mounted men of the Confederate Army.</span
 Texas but there were many Choctaws in this regiment.</span><span style="font-size: 14pt;">&nbsp; </span><span style="font-size: 14pt;">He said that they scouted all over the Indian
 country trying to rid the country of all Federal soldiers that came here.</span><span style="font-size: 14pt;">&nbsp; </span><span style="font-size: 14pt;">He said this was in the year 1862.</span><span style="font-size: 14pt;">&nbsp;</span></p>
 
-<p class="MsoNormal" style="line-height: 150%; margin-bottom: 0in;"><span style="font-size: 14.0pt; line-height: 150%;"><o:p>&nbsp;</o:p></span></p><div abp="38" style="font-family: &quot;times new roman&quot;; text-align: center;"><div abp="883">~ Tom ~</div></div><center abp="39" style="font-family: &quot;times new roman&quot;;"><i abp="40" style="font-family: &quot;Book Antiqua&quot;;">CADECBAB</i></center><center abp="39" style="font-family: &quot;times new roman&quot;;"><i style="font-family: &quot;book antiqua&quot;; text-align: left;">7 May 2022</i></center>
+<p class="MsoNormal" style="line-height: 150%; margin-bottom: 0in;"><span style="font-size: 14.0pt; line-height: 150%;"><o:p>&nbsp;</o:p></span></p>
 
-<p class="MsoNormal" style="line-height: 150%; margin-bottom: 0in;"><span style="font-size: 14.0pt; line-height: 150%;"><o:p>&nbsp;</o:p></span></p><p class="MsoNormal" style="line-height: 150%; margin-bottom: 0in;"><span style="font-size: 14.0pt; line-height: 150%;"><o:p>Reference:&nbsp;https://digital.libraries.ou.edu/cdm/singleitem/collection/indianpp/id/3933/rec/16&nbsp;</o:p></span></p>
+<div abp="38" style="font-family: &quot;times new roman&quot;; text-align: center;">
+<div abp="883">~ Tom ~</div>
+</div>
+<center abp="39" style="font-family: &quot;times new roman&quot;;"><i abp="40" style="font-family: &quot;Book Antiqua&quot;;">CADECBAB</i></center><center abp="39" style="font-family: &quot;times new roman&quot;;"><i style="font-family: &quot;book antiqua&quot;; text-align: left;">7 May 2022</i></center>
+
+<p class="MsoNormal" style="line-height: 150%; margin-bottom: 0in;"><span style="font-size: 14.0pt; line-height: 150%;"><o:p>&nbsp;</o:p></span></p>
+
+<p class="MsoNormal" style="line-height: 150%; margin-bottom: 0in;"><span style="font-size: 14.0pt; line-height: 150%;"><o:p>Reference:&nbsp;https://digital.libraries.ou.edu/cdm/singleitem/collection/indianpp/id/3933/rec/16&nbsp;</o:p></span></p>
 
 <p class="MsoNormal" style="line-height: 150%; margin-bottom: 0in;"><span style="font-size: 14.0pt; line-height: 150%;"><o:p>&nbsp;</o:p></span></p>

@@ -5,4 +5,41 @@ date: 2023-08-03 10:37:00 +0000
 published: true
 ---
 
-<p>Sometimes you run across a family&nbsp; name that's just&nbsp; a little bit left of center because of transcription errors.&nbsp; These are generally easy to identify and correct.&nbsp; I've run against one that is small, but has no surviving people to talk with to verify assumptions.&nbsp;&nbsp;</p><p>My great-granduncle, Willie Fields.&nbsp;&nbsp;</p><p>Willie was born in 1909 in Hill, Le Flore County, Oklahoma.&nbsp; Willie is listed in the 1910, 1920, 1930, and 1940 Census Records as being in Kully Chaha, Le Flore, Oklahoma.&nbsp; * Kully Chaha is Choctaw and means "High Spring," in reference to a spring high on Sugar Loaf Mountain. In all but the 1940 Census, he is recorded as Willie.&nbsp; In 1940, his first year to have been married, he is recorded as Billie. When we get to the 1950 Census, we find Willie in Los Angeles.</p><p>On all official government style type documents, they were filled out as Billie.&nbsp;&nbsp;</p><p>- WWII Draft Registration</p><p>- Application for Marriage License</p><p>-&nbsp; Headstone</p><p>Other items such as Census Records and Obituaries where family or friends may have given his name, gave his name as Willie.</p><p>I'm left to believe he was given the pet name of Willie by his family when he was young and it stuck.&nbsp; But he felt compelled to use Billie on formal documentation.&nbsp; I'm working on obtaining birth and death certificates to see how those are documented. But, he had no children I'm finding.&nbsp; Nor did his brother, Kenneth.&nbsp; His line has ended, so has my opportunity to find the truth. <br /></p><p>&nbsp;So, do I document him in the Family Tree as Willie or Billie?</p><p>&nbsp;</p><p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUtUMKfkY4RPDBgPxcqJpt-0L3qoFamcQBPxMvg7h4fFDQ_Y_VUgUszxYHriASF45tb25WdyKxfmmp_Dof3huIYLKze8_1ZJsOmKaJNs19m88GbEpaDrfQleKKuu-0pasBRKAxA5bqRv45MAAfKXmSxGndAg5W0h4vOCN15BmuFEhSILQ0qK_p7oApwP6f/s507/SM1920Census.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="188" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUtUMKfkY4RPDBgPxcqJpt-0L3qoFamcQBPxMvg7h4fFDQ_Y_VUgUszxYHriASF45tb25WdyKxfmmp_Dof3huIYLKze8_1ZJsOmKaJNs19m88GbEpaDrfQleKKuu-0pasBRKAxA5bqRv45MAAfKXmSxGndAg5W0h4vOCN15BmuFEhSILQ0qK_p7oApwP6f/w400-h188/SM1920Census.jpg" width="400" /></a></div>&nbsp;<p></p><p></p><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7QGJG1CjKfMvN6rUv4QacoW7Xkc_MPWPLewu2rdzxYhAmSqWfg3nmKjDiXAfzNN4yo4Bmimhscfn1mQ0UF_CJ453X8y--kaX48rTaxx4_7kPJyyiiPtOo7fYleU7i3bYgh29mItPqflqErSdjKK0Hi2TrxX5Z2BtrFntJZHV4LJAWokfdgUD3G_-ZuxUy/s877/SMWWII.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="269" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7QGJG1CjKfMvN6rUv4QacoW7Xkc_MPWPLewu2rdzxYhAmSqWfg3nmKjDiXAfzNN4yo4Bmimhscfn1mQ0UF_CJ453X8y--kaX48rTaxx4_7kPJyyiiPtOo7fYleU7i3bYgh29mItPqflqErSdjKK0Hi2TrxX5Z2BtrFntJZHV4LJAWokfdgUD3G_-ZuxUy/w400-h269/SMWWII.jpg" width="400" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA0Ych66muIDpUinrkTNgPMSusfu4sz2YC3laPRZkvA6uUMxjRXDwlIKy2WheXjh_nbHM33AiiCTWdpB9kyxbk5Vewa6UZMGBVBAKJMlWuhkQj6TfxrREZMf_spnvKQYrf9-ahpkjEhXfTAWGJSpN3kZbEd3XTor-l5GcRfSu-rEzzi1QS8jkGSvscR60Z/s898/SMLicense.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="191" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA0Ych66muIDpUinrkTNgPMSusfu4sz2YC3laPRZkvA6uUMxjRXDwlIKy2WheXjh_nbHM33AiiCTWdpB9kyxbk5Vewa6UZMGBVBAKJMlWuhkQj6TfxrREZMf_spnvKQYrf9-ahpkjEhXfTAWGJSpN3kZbEd3XTor-l5GcRfSu-rEzzi1QS8jkGSvscR60Z/w400-h191/SMLicense.jpg" width="400" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOT_adc63vZybcR3htHdA-Ek4LTEXyCF-gPYsnIpgm2KicVb3Sc3ySK9Vh5bIzmqD2zV9lcPMEgs7-7h93BYkD4sGwFly1bpCmjuHd5LJUITA_ryjuvJhVVY8X9-n1lY8ltlpWmYurb_Ln3awkwSKfO0vhr9CAi5YJPCxTQdyhGkQVn-lUiMrkrpr713h2/s855/SMHeadstone.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" height="178" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOT_adc63vZybcR3htHdA-Ek4LTEXyCF-gPYsnIpgm2KicVb3Sc3ySK9Vh5bIzmqD2zV9lcPMEgs7-7h93BYkD4sGwFly1bpCmjuHd5LJUITA_ryjuvJhVVY8X9-n1lY8ltlpWmYurb_Ln3awkwSKfO0vhr9CAi5YJPCxTQdyhGkQVn-lUiMrkrpr713h2/w400-h178/SMHeadstone.jpg" width="400" /></a></div><br />&nbsp; <br /><p></p><div style="text-align: center;">~ Tom ~</div><div style="text-align: center;"><div>CADECBAB</div><div>8 Aug 2023</div></div><p>&nbsp;</p><p>Reference</p><p>* https://owlcation.com/humanities/Forgotten-Towns-of-LeFlore-County</p><p>&nbsp;<br /></p>
+<p>Sometimes you run across a family&nbsp; name that's just&nbsp; a little bit left of center because of transcription errors.&nbsp; These are generally easy to identify and correct.&nbsp; I've run against one that is small, but has no surviving people to talk with to verify assumptions.&nbsp;&nbsp;</p>
+
+<p>My great-granduncle, Willie Fields.&nbsp;&nbsp;</p>
+
+<p>Willie was born in 1909 in Hill, Le Flore County, Oklahoma.&nbsp; Willie is listed in the 1910, 1920, 1930, and 1940 Census Records as being in Kully Chaha, Le Flore, Oklahoma.&nbsp; * Kully Chaha is Choctaw and means "High Spring," in reference to a spring high on Sugar Loaf Mountain. In all but the 1940 Census, he is recorded as Willie.&nbsp; In 1940, his first year to have been married, he is recorded as Billie. When we get to the 1950 Census, we find Willie in Los Angeles.</p>
+
+<p>On all official government style type documents, they were filled out as Billie.&nbsp;&nbsp;</p>
+
+<p>- WWII Draft Registration</p>
+
+<p>- Application for Marriage License</p>
+
+<p>-&nbsp; Headstone</p>
+
+<p>Other items such as Census Records and Obituaries where family or friends may have given his name, gave his name as Willie.</p>
+
+<p>I'm left to believe he was given the pet name of Willie by his family when he was young and it stuck.&nbsp; But he felt compelled to use Billie on formal documentation.&nbsp; I'm working on obtaining birth and death certificates to see how those are documented. But, he had no children I'm finding.&nbsp; Nor did his brother, Kenneth.&nbsp; His line has ended, so has my opportunity to find the truth. 
+</p>
+
+<p>&nbsp;So, do I document him in the Family Tree as Willie or Billie?</p>
+<img height="188" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUtUMKfkY4RPDBgPxcqJpt-0L3qoFamcQBPxMvg7h4fFDQ_Y_VUgUszxYHriASF45tb25WdyKxfmmp_Dof3huIYLKze8_1ZJsOmKaJNs19m88GbEpaDrfQleKKuu-0pasBRKAxA5bqRv45MAAfKXmSxGndAg5W0h4vOCN15BmuFEhSILQ0qK_p7oApwP6f/w400-h188/SM1920Census.jpg" width="400" />&nbsp;<img height="269" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7QGJG1CjKfMvN6rUv4QacoW7Xkc_MPWPLewu2rdzxYhAmSqWfg3nmKjDiXAfzNN4yo4Bmimhscfn1mQ0UF_CJ453X8y--kaX48rTaxx4_7kPJyyiiPtOo7fYleU7i3bYgh29mItPqflqErSdjKK0Hi2TrxX5Z2BtrFntJZHV4LJAWokfdgUD3G_-ZuxUy/w400-h269/SMWWII.jpg" width="400" />
+<img height="191" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA0Ych66muIDpUinrkTNgPMSusfu4sz2YC3laPRZkvA6uUMxjRXDwlIKy2WheXjh_nbHM33AiiCTWdpB9kyxbk5Vewa6UZMGBVBAKJMlWuhkQj6TfxrREZMf_spnvKQYrf9-ahpkjEhXfTAWGJSpN3kZbEd3XTor-l5GcRfSu-rEzzi1QS8jkGSvscR60Z/w400-h191/SMLicense.jpg" width="400" />
+<img height="178" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOT_adc63vZybcR3htHdA-Ek4LTEXyCF-gPYsnIpgm2KicVb3Sc3ySK9Vh5bIzmqD2zV9lcPMEgs7-7h93BYkD4sGwFly1bpCmjuHd5LJUITA_ryjuvJhVVY8X9-n1lY8ltlpWmYurb_Ln3awkwSKfO0vhr9CAi5YJPCxTQdyhGkQVn-lUiMrkrpr713h2/w400-h178/SMHeadstone.jpg" width="400" /> 
+
+<div style="text-align: center;">~ Tom ~</div>
+
+<div style="text-align: center;">
+<div>CADECBAB</div>
+
+<div>8 Aug 2023</div>
+</div>
+
+<p>Reference</p>
+
+<p>* https://owlcation.com/humanities/Forgotten-Towns-of-LeFlore-County</p>
+
+<p>&nbsp;
+</p>
