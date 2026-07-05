@@ -2,6 +2,7 @@
 layout: default
 title: About
 permalink: /about/
+description: "About the Batie Family History blog — a companion to the genealogical record compiled by Howard F. Batie tracing descendants of Thomas Batie and Margaret Robson from Northumberland, England to Ontario, Canada."
 ---
 
 <div class="post-content">
