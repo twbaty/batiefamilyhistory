@@ -1,0 +1,61 @@
+# =============================================================================
+# HOW DEPLOYS WORK
+# =============================================================================
+# This workflow replaces Netlify's built-in build system.
+#
+# WHY: Netlify's free tier allows 300 build minutes/month. GitHub Actions
+# gives 2,000 free minutes/month. By building here and pushing the result
+# to Netlify, we use GitHub's quota instead.
+#
+# WHAT TRIGGERS A DEPLOY:
+#   - Any push to the master branch (including CMS saves)
+#   - That's it. No scheduled builds, no manual triggers needed.
+#
+# WHAT DOES NOT TRIGGER A DEPLOY:
+#   - Pushes to any other branch
+#   - Pull requests (read-only, no deploy)
+#
+# NETLIFY'S ROLE GOING FORWARD:
+#   - Hosts the live site (batiefamilyhistory.netlify.app)
+#   - Runs Netlify Identity (CMS login)
+#   - Runs git-gateway (CMS saves posts back to GitHub)
+#   - Does NOT build anything — builds are stopped in Netlify dashboard
+#
+# REQUIRED GITHUB SECRETS (repo Settings → Secrets → Actions):
+#   NETLIFY_AUTH_TOKEN  — Personal access token from Netlify account settings
+#   NETLIFY_SITE_ID     — API ID from Netlify site settings → General
+#
+# TO ADD A SECRET:
+#   GitHub repo → Settings → Secrets and variables → Actions → New repository secret
+# =============================================================================
+
+name: Build and Deploy to Netlify
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true   # caches gems between runs — faster builds
+
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+
+      - name: Deploy to Netlify
+        run: |
+          npm install -g netlify-cli
+          netlify deploy --prod --dir=_site --message "Deploy from GitHub Actions"
+        env:
+          NETLIFY_AUTH_TOKEN: ${{ secrets.NETLIFY_AUTH_TOKEN }}
+          NETLIFY_SITE_ID: ${{ secrets.NETLIFY_SITE_ID }}
