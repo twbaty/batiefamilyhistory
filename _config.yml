@@ -1,7 +1,7 @@
 title: Batie Family History
 description: Researching the Batie/Baty family originating with Thomas Batie in Northumberland England about 1720.
 baseurl: ""
-url: "https://batyfamilyhistory.netlify.app"
+url: "https://batie.netlify.app"
 
 author:
   name: Batie Family
@@ -49,3 +49,6 @@ exclude:
   - batiefamilyhistory-wordpress.zip
   - "Screenshot*.jpg"
   - README.md
+  - ack.html
+  - forward.html
+  - surnames.html
