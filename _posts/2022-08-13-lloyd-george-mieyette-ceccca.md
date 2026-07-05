@@ -28,7 +28,8 @@ published: true
 <p><span style="font-size: small;"></span></p>
 
 <p><span style="font-size: small;"></span></p>
-<img height="315" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHTbSvPltNGsBtkH7VYl8ny-RuK4nR7L9jUXempp0b1PYeuCeT_2KIgD5rSAWIzG8w5XzoQ2mhWzVPtOmT474ZVc3ZsGdEvAkji0YBfioihs3G6FKYDBYGGYDqQTHv5K20g3y5-AuOMKufGhWwVdQtVr4W9x9pSKSnuxZDMERtGjE9VC6FLOAAHv3rgw/w400-h315/large_000000.jpg" width="400" />
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHTbSvPltNGsBtkH7VYl8ny-RuK4nR7L9jUXempp0b1PYeuCeT_2KIgD5rSAWIzG8w5XzoQ2mhWzVPtOmT474ZVc3ZsGdEvAkji0YBfioihs3G6FKYDBYGGYDqQTHv5K20g3y5-AuOMKufGhWwVdQtVr4W9x9pSKSnuxZDMERtGjE9VC6FLOAAHv3rgw/s800/large_000000.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="315" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHTbSvPltNGsBtkH7VYl8ny-RuK4nR7L9jUXempp0b1PYeuCeT_2KIgD5rSAWIzG8w5XzoQ2mhWzVPtOmT474ZVc3ZsGdEvAkji0YBfioihs3G6FKYDBYGGYDqQTHv5K20g3y5-AuOMKufGhWwVdQtVr4W9x9pSKSnuxZDMERtGjE9VC6FLOAAHv3rgw/w400-h315/large_000000.jpg" width="400" /></a></div>
 
 <p><i><span style="font-size: small;">Left to right: Flight Sergeant Trevor H 
 Payne, front gunner; Pilot Officer Thomas W Johnson, flight engineer; 
@@ -49,7 +50,8 @@ Gunners Badge.&nbsp; I'm getting a hint of a suggestion he was the radio man.&nb
 </span></p>
 
 <p><span style="font-size: medium;">Lloyd would have flown in the Avro Lancaster heavy bomber.</span></p>
-<img height="294" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeQek8axxUc7cHjS8OSWjFyzn_EZEaEKOj470211SLyff8fidKQqvufJLDQooSvmTNUmyXsbs9CRqTbINGApEqOH-wuOsS2cbLmumY43g-8K0Xirgael1vVY8R-JF-sY_A251IzX03c1Zh-jp0UaHXXQX_9sU7WcikbMYsMaS1IGC9DL2IbxR_blYm5Q/w400-h294/bomber-Lancaster-World-War-II-Royal-Air.webp" width="400" />
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeQek8axxUc7cHjS8OSWjFyzn_EZEaEKOj470211SLyff8fidKQqvufJLDQooSvmTNUmyXsbs9CRqTbINGApEqOH-wuOsS2cbLmumY43g-8K0Xirgael1vVY8R-JF-sY_A251IzX03c1Zh-jp0UaHXXQX_9sU7WcikbMYsMaS1IGC9DL2IbxR_blYm5Q/s1024/bomber-Lancaster-World-War-II-Royal-Air.webp" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img height="294" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeQek8axxUc7cHjS8OSWjFyzn_EZEaEKOj470211SLyff8fidKQqvufJLDQooSvmTNUmyXsbs9CRqTbINGApEqOH-wuOsS2cbLmumY43g-8K0Xirgael1vVY8R-JF-sY_A251IzX03c1Zh-jp0UaHXXQX_9sU7WcikbMYsMaS1IGC9DL2IbxR_blYm5Q/w400-h294/bomber-Lancaster-World-War-II-Royal-Air.webp" width="400" /></a></div>
 
 <p><i><span style="font-size: small;"> 
 </span></i></p>
@@ -75,7 +77,8 @@ Gunners Badge.&nbsp; I'm getting a hint of a suggestion he was the radio man.&nb
 <h1 class="userCardTitle"><span style="font-size: medium;"><span style="font-weight: normal;">Lloyd enjoyed rapid promotions.&nbsp; Taken from his Service and Pay Book,&nbsp;</span></span></h1>
 
 <h1 class="userCardTitle"></h1>
-<img height="216" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigyqYakHe5FMryRflpr141q_KxAIXoL7BC7MEiipYQ27rrM0__wWRn_S_jCIwbMDEeKpjRp9MxjiS4xN0EZRLPT9PgMbH6eI1Z2kQgvRbDYArkaclhw_vCup46G2LC1Ber31GVUaxxR2Ru0aFD_mr64JdjrnO1I9rtFtESSWiR4U2CayGLfN3ZGFaXbA/s320/Ranks.jpg" width="320" />
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigyqYakHe5FMryRflpr141q_KxAIXoL7BC7MEiipYQ27rrM0__wWRn_S_jCIwbMDEeKpjRp9MxjiS4xN0EZRLPT9PgMbH6eI1Z2kQgvRbDYArkaclhw_vCup46G2LC1Ber31GVUaxxR2Ru0aFD_mr64JdjrnO1I9rtFtESSWiR4U2CayGLfN3ZGFaXbA/s416/Ranks.jpg" imageanchor="1" style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"><img height="216" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEigyqYakHe5FMryRflpr141q_KxAIXoL7BC7MEiipYQ27rrM0__wWRn_S_jCIwbMDEeKpjRp9MxjiS4xN0EZRLPT9PgMbH6eI1Z2kQgvRbDYArkaclhw_vCup46G2LC1Ber31GVUaxxR2Ru0aFD_mr64JdjrnO1I9rtFtESSWiR4U2CayGLfN3ZGFaXbA/s320/Ranks.jpg" width="320" /></a></div>
 
 <p>
 </p>
@@ -105,7 +108,10 @@ Gunners Badge.&nbsp; I'm getting a hint of a suggestion he was the radio man.&nb
 <p><span style="font-size: small;">&nbsp;</span></p>
 
 <p><span style="font-size: small;">&nbsp;</span></p>
-<span style="font-size: small;"><img height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTer8wfk-c4hK3p46JUgDMgP6sgGg-lJzm_-OavPdZzIrvt9fNUTxA-j27hlGlcRE47c6cLmrAI0_B3z6Xj4rjeTlSfS85z2TTj2OONlKjlvGDNGEfABg4rvatDgnH1CEF0NZ_9Ya6d2_8vkcHk82rg9faxViTvoXet_rMZVSvmmCc1RNA4QVH_7uQSA/w480-h640/Lloyd%20George%20Mieyette%20-%20Headstone.jpg" width="480" /></span><span style="font-size: small;">
+
+<div class="post-image"><span style="font-size: small;"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTer8wfk-c4hK3p46JUgDMgP6sgGg-lJzm_-OavPdZzIrvt9fNUTxA-j27hlGlcRE47c6cLmrAI0_B3z6Xj4rjeTlSfS85z2TTj2OONlKjlvGDNGEfABg4rvatDgnH1CEF0NZ_9Ya6d2_8vkcHk82rg9faxViTvoXet_rMZVSvmmCc1RNA4QVH_7uQSA/s4000/Lloyd%20George%20Mieyette%20-%20Headstone.jpg" style="margin-left: 1em; margin-right: 1em;"><img height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTer8wfk-c4hK3p46JUgDMgP6sgGg-lJzm_-OavPdZzIrvt9fNUTxA-j27hlGlcRE47c6cLmrAI0_B3z6Xj4rjeTlSfS85z2TTj2OONlKjlvGDNGEfABg4rvatDgnH1CEF0NZ_9Ya6d2_8vkcHk82rg9faxViTvoXet_rMZVSvmmCc1RNA4QVH_7uQSA/w480-h640/Lloyd%20George%20Mieyette%20-%20Headstone.jpg" width="480" /></a></span></div>
+
+<span style="font-size: small;">
 </span>
 <p><span style="font-size: small;">&nbsp;</span></p>
 

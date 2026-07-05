@@ -21,7 +21,7 @@ Now, when was the photo taken?&nbsp; That's my next search.&nbsp; I've contacted
 
 Anyone have any idea as to the approximate date based on clues in the photo?
 
-<img height="217" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX3eGArF6PPoMD_LJtr5dlpOeqw0yVOu62G71b_S-i0hoIWLMitIQyk2k3vFWszKZ9LH5182c3WkwefUj1iKbW5OS7xLJjKQBij55lztqmXLOd4uZiEhrcjulrSdQSaEjfXXGGVhtHS6du/s1600/Photograph+(1).jpg" width="320" />
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX3eGArF6PPoMD_LJtr5dlpOeqw0yVOu62G71b_S-i0hoIWLMitIQyk2k3vFWszKZ9LH5182c3WkwefUj1iKbW5OS7xLJjKQBij55lztqmXLOd4uZiEhrcjulrSdQSaEjfXXGGVhtHS6du/s1600/Photograph+(1).jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="217" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjX3eGArF6PPoMD_LJtr5dlpOeqw0yVOu62G71b_S-i0hoIWLMitIQyk2k3vFWszKZ9LH5182c3WkwefUj1iKbW5OS7xLJjKQBij55lztqmXLOd4uZiEhrcjulrSdQSaEjfXXGGVhtHS6du/s1600/Photograph+(1).jpg" width="320" /></a></div>
 
 <div style="text-align: center;">
 ~ Tom ~

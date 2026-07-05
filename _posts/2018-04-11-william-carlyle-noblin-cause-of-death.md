@@ -27,7 +27,16 @@ The injury occurred by
 
 That's rough, getting robbed in an ice cream truck.&nbsp; And killed for your efforts.
 
-<img height="284" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_t5ElKas40ImNM-bS4xld0JtsK_PqJAEhEdUNgbUl8SXGM89aFcOpYV7aYsCmUkYsgZVWnIg-H42rb4sMeAogcFV2XPaki15WUi3o_7oCCtP1Uo3evjsPfZv4-iOiDB5LZXdw6XVxqPp_/s640/William+Carlyle+Noblin+-+Death.jpg" width="640" />
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_t5ElKas40ImNM-bS4xld0JtsK_PqJAEhEdUNgbUl8SXGM89aFcOpYV7aYsCmUkYsgZVWnIg-H42rb4sMeAogcFV2XPaki15WUi3o_7oCCtP1Uo3evjsPfZv4-iOiDB5LZXdw6XVxqPp_/s1600/William+Carlyle+Noblin+-+Death.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="284" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_t5ElKas40ImNM-bS4xld0JtsK_PqJAEhEdUNgbUl8SXGM89aFcOpYV7aYsCmUkYsgZVWnIg-H42rb4sMeAogcFV2XPaki15WUi3o_7oCCtP1Uo3evjsPfZv4-iOiDB5LZXdw6XVxqPp_/s640/William+Carlyle+Noblin+-+Death.jpg" width="640" /></a></div>
+
+<div class="post-image">
+</div>
+
+<div class="post-image">
+</div>
+
+<div class="post-image">
+</div>
 
 <div abp="38" style="font-family: &quot;times new roman&quot;; text-align: center;">
 ~ Tom ~</div>

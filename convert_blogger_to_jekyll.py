@@ -30,6 +30,43 @@ def get_text(element, tag, ns):
     el = element.find(f"{{{ns}}}{tag}")
     return el.text.strip() if el is not None and el.text else ""
 
+def clean_html(body):
+    # Strip Blogger data attributes
+    body = re.sub(r'\s+data-path-to-node="[^"]*"', "", body)
+    body = re.sub(r'\s+data-index-in-node="[^"]*"', "", body)
+    body = re.sub(r'\s+data-original-height="[^"]*"', "", body)
+    body = re.sub(r'\s+data-original-width="[^"]*"', "", body)
+    body = re.sub(r'\s+border="0"', "", body)
+
+    # Wrap separator divs (image containers) in a centered post-image div,
+    # preserving the <a href><img></a> click-to-enlarge link
+    def wrap_separator(m):
+        inner = m.group(1).strip()
+        # Add target="_blank" to image links so they open in a new tab
+        inner = re.sub(r'<a ', '<a target="_blank" ', inner)
+        if not inner:
+            return ""
+        return f'\n<div class="post-image">{inner}</div>\n'
+
+    body = re.sub(r'<div class="separator"[^>]*>(.*?)</div>',
+                  wrap_separator, body, flags=re.DOTALL)
+
+    # Remove empty paragraphs and stray &nbsp;
+    body = re.sub(r'<p>\s*(&nbsp;)?\s*</p>', '', body)
+    body = re.sub(r'<br\s*/?>(\s*&nbsp;)+', '', body)
+    body = re.sub(r'<br\s*/?>', '\n', body)
+
+    # Add newlines around block elements so Kramdown parses HTML correctly
+    block_open  = r'(<(?:p|h[1-6]|div|ul|ol|li|blockquote|pre|hr)\b[^>]*>)'
+    block_close = r'(</(?:p|h[1-6]|div|ul|ol|li|blockquote|pre)>)'
+    body = re.sub(block_open,  r'\n\1', body)
+    body = re.sub(block_close, r'\1\n', body)
+
+    # Collapse extra blank lines
+    body = re.sub(r'\n{3,}', '\n\n', body).strip()
+    return body
+
+
 def main():
     os.makedirs(OUTPUT_DIR, exist_ok=True)
 
@@ -84,6 +121,8 @@ published: {"false" if is_draft else "true"}
 ---
 
 """
+
+        content = clean_html(content)
 
         with open(filepath, "w", encoding="utf-8") as f:
             f.write(frontmatter)

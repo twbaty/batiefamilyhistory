@@ -174,6 +174,16 @@ article.post .post-title {
 .post-content img { max-width: 100%; height: auto; }
 .post-content h2, .post-content h3 { margin: 18px 0 8px; color: #444; }
 
+.post-image {
+  text-align: center;
+  margin: 16px 0;
+}
+.post-image img {
+  max-width: 100%;
+  height: auto;
+  cursor: zoom-in;
+}
+
 .post-nav {
   margin-top: 24px;
   padding-top: 16px;

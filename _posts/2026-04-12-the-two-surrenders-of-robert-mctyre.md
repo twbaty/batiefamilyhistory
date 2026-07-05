@@ -14,7 +14,9 @@ published: true
 <p>By July 1863, the romance of the war was gone. Robert was trapped in the <b>Siege of Vicksburg</b>, a 47-day nightmare of constant shelling and starvation. On July 4th, 1863, while the North celebrated, Robert became a Prisoner of War.</p>
 
 <p>I found his <b>Parole</b> from that day. It was a "gentleman’s agreement"—the Union let him walk away, provided he promised never to pick up a gun again until he was officially "exchanged." For most men, that would have been the end of their war.</p>
-<img height="247" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1j6cV7u7I20We3kZhaYyfgXHP6mtKpuxi99JO-7wly6l7QJAXYz3MkbgRUBNUoEGGM3lXlzWFhfxipj1iCE7uQyCAIxOHPIMw2PDS6rCUf1OyIh6itdrlIM44iHlv5jUSnFKWq-BrECCtHtrvG34RlrkqYpEpH3igTnuDxAZoS58jAuDujRqCQTsic-IZ/s320/Page%2012.jpg" width="320" />
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1j6cV7u7I20We3kZhaYyfgXHP6mtKpuxi99JO-7wly6l7QJAXYz3MkbgRUBNUoEGGM3lXlzWFhfxipj1iCE7uQyCAIxOHPIMw2PDS6rCUf1OyIh6itdrlIM44iHlv5jUSnFKWq-BrECCtHtrvG34RlrkqYpEpH3igTnuDxAZoS58jAuDujRqCQTsic-IZ/s1600/Page%2012.jpg" style="margin-left: 1em; margin-right: 1em;"><img height="247" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1j6cV7u7I20We3kZhaYyfgXHP6mtKpuxi99JO-7wly6l7QJAXYz3MkbgRUBNUoEGGM3lXlzWFhfxipj1iCE7uQyCAIxOHPIMw2PDS6rCUf1OyIh6itdrlIM44iHlv5jUSnFKWq-BrECCtHtrvG34RlrkqYpEpH3igTnuDxAZoS58jAuDujRqCQTsic-IZ/s320/Page%2012.jpg" width="320" /></a></div>
+
 <h3>The Second End: The Remnant of the 40th</h3>
 
 <p>But Robert’s story didn't stop in Mississippi. Military records from 1915 reveal a shocking twist: Robert was eventually "exchanged" and went right back to the front.</p>
@@ -28,7 +30,8 @@ published: true
 <p>The resilience Robert showed on the battlefield defined his life as a civilian. He returned to Georgia, worked as a <b>Railroad Foreman</b>—literally rebuilding the tracks he had once defended—and eventually led his wife and nine children on a new mission: settling the frontier.</p>
 
 <p>By 1880, the McTyres had moved to <b>Franklin, Arkansas</b>, and eventually, the family legacy stretched into <b>Oklahoma</b> and <b>Texas</b>. We know this because, in 1915, the Oklahoma Pension Board had to verify his service records. They found that Private McTyre hadn't just "joined the war"; he had seen it through to the bitter, final end.</p>
-<img height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5JOhh_qgMTBIqk3LUIz2yHjeIaFGIoogw11kNGz9yDfJPWsC7Mt7dlpVzfupkgGeTmiYFzt1M9QZlFkAaGGJyvP33-PL4tWHyIHBduAtSLAuaXx5bsLeb52hS1PlYjPBg7ZJiHtz7aiRQNyNG8vS5kgYUVFn6_RAkNCXehslXRHidylexBg4poScSVLPt/s320/Page%202(1).jpg" width="139" />
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5JOhh_qgMTBIqk3LUIz2yHjeIaFGIoogw11kNGz9yDfJPWsC7Mt7dlpVzfupkgGeTmiYFzt1M9QZlFkAaGGJyvP33-PL4tWHyIHBduAtSLAuaXx5bsLeb52hS1PlYjPBg7ZJiHtz7aiRQNyNG8vS5kgYUVFn6_RAkNCXehslXRHidylexBg4poScSVLPt/s1600/Page%202(1).jpg" style="margin-left: 1em; margin-right: 1em;"><img height="320" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5JOhh_qgMTBIqk3LUIz2yHjeIaFGIoogw11kNGz9yDfJPWsC7Mt7dlpVzfupkgGeTmiYFzt1M9QZlFkAaGGJyvP33-PL4tWHyIHBduAtSLAuaXx5bsLeb52hS1PlYjPBg7ZJiHtz7aiRQNyNG8vS5kgYUVFn6_RAkNCXehslXRHidylexBg4poScSVLPt/s320/Page%202(1).jpg" width="139" /></a></div>
 
 <p>Robert W. McTyre began as a day laborer in Georgia and ended as a pioneer in the West. He was a man of his word, a man of many oaths, and a survivor who helped build the world we live in today.</p>
 

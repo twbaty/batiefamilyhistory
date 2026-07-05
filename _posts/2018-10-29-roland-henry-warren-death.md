@@ -69,6 +69,9 @@ to be feasible or related to the <i>Shark's</i> loss.  However, the evidence of 
 
 Rest in Peace Roland....
 
+<div class="post-image">
+</div>
+
 <div abp="38" style="font-family: &quot;times new roman&quot;; text-align: center;">
 ~ Tom ~</div>
 

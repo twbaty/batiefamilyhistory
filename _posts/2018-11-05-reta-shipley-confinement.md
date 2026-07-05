@@ -23,7 +23,7 @@ Postpartum confinement - some customs feel the mother is weak after childbirth a
 
 Reta was most likely in that period of prenatal confinement.
 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGoGMFrJ1QjXeePQCqnockyCeYZxBDxaCFY5EkNT7JY4K8OEubUkqD9WdyGYdpWNHwZ8i-18hzuEDWqiiwPUFztkfa5D89hrwCQMtBsTLgJ7CZPc308ZSdk1IB7t4BS55Pdy-XDRqdDGDI/s1600/Reta+Shipley+-+Death.jpg" />
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGoGMFrJ1QjXeePQCqnockyCeYZxBDxaCFY5EkNT7JY4K8OEubUkqD9WdyGYdpWNHwZ8i-18hzuEDWqiiwPUFztkfa5D89hrwCQMtBsTLgJ7CZPc308ZSdk1IB7t4BS55Pdy-XDRqdDGDI/s1600/Reta+Shipley+-+Death.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGoGMFrJ1QjXeePQCqnockyCeYZxBDxaCFY5EkNT7JY4K8OEubUkqD9WdyGYdpWNHwZ8i-18hzuEDWqiiwPUFztkfa5D89hrwCQMtBsTLgJ7CZPc308ZSdk1IB7t4BS55Pdy-XDRqdDGDI/s1600/Reta+Shipley+-+Death.jpg" /></a></div>
 
 <div abp="38" style="font-family: &quot;times new roman&quot;; text-align: center;">
 ~ Tom ~</div>

@@ -20,10 +20,14 @@ I'm trying to get to the bottom of just what her date of death was. &nbsp;Any he
 <div style="text-align: center;">
 <span style="font-size: large;"><u>Will&nbsp;</u></span></div>
 
-<img height="346" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_xVIAoJu6HVRhYLNdXq5R6hvdPVFZ8F9sHr3xGAhHl0IeIU7rXCJp9Lp7U9gSc3n9mrO41e8dTY0g-Vkd5E3Qpi-SxodKLb5vO-tQSOeyT1b6YlD9EATCnOG_yYb4TG9HdypDHM5c6_ay/s640/Rosa+W+Bausch+-+Will+-+Small.jpg" width="640" />
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_xVIAoJu6HVRhYLNdXq5R6hvdPVFZ8F9sHr3xGAhHl0IeIU7rXCJp9Lp7U9gSc3n9mrO41e8dTY0g-Vkd5E3Qpi-SxodKLb5vO-tQSOeyT1b6YlD9EATCnOG_yYb4TG9HdypDHM5c6_ay/s1600/Rosa+W+Bausch+-+Will+-+Small.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="346" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_xVIAoJu6HVRhYLNdXq5R6hvdPVFZ8F9sHr3xGAhHl0IeIU7rXCJp9Lp7U9gSc3n9mrO41e8dTY0g-Vkd5E3Qpi-SxodKLb5vO-tQSOeyT1b6YlD9EATCnOG_yYb4TG9HdypDHM5c6_ay/s640/Rosa+W+Bausch+-+Will+-+Small.jpg" width="640" /></a></div>
 
-<span style="font-size: large;"><u>Probate</u></span>
-<img height="268" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHJsUOfSAedn_Qy_anOz95PiMM6HU-ii0BDs5DjSJSDY1ATO9MINH6YLZovsZ0wSgZO1qVtzm-sKBZOrAYuSNDj_wrpX5w7N8yS-MMMYGCe3Nug_2qs9rhMYYzMKeF_y0iQ1Dk1HoOrj9R/s640/Rosa+W+Bausch+-+Probate+-+Small.jpg" width="640" />
+<div class="post-image">
+</div>
+
+<div class="post-image"><span style="font-size: large;"><u>Probate</u></span></div>
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHJsUOfSAedn_Qy_anOz95PiMM6HU-ii0BDs5DjSJSDY1ATO9MINH6YLZovsZ0wSgZO1qVtzm-sKBZOrAYuSNDj_wrpX5w7N8yS-MMMYGCe3Nug_2qs9rhMYYzMKeF_y0iQ1Dk1HoOrj9R/s1600/Rosa+W+Bausch+-+Probate+-+Small.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em; text-align: center;"><img height="268" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHJsUOfSAedn_Qy_anOz95PiMM6HU-ii0BDs5DjSJSDY1ATO9MINH6YLZovsZ0wSgZO1qVtzm-sKBZOrAYuSNDj_wrpX5w7N8yS-MMMYGCe3Nug_2qs9rhMYYzMKeF_y0iQ1Dk1HoOrj9R/s640/Rosa+W+Bausch+-+Probate+-+Small.jpg" width="640" /></a></div>
 
 <div style="text-align: center;">
 ~Tom~</div>

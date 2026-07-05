@@ -41,8 +41,9 @@ Willy?&nbsp; The date of birth and death are accurate for Milan.&nbsp; The locat
 
 Now, I need to make a visit to Oswego Cemetery to see just where each of their plots are.&nbsp; And is Milan near other's named Willy? 
 
-<img height="368" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEharjcCl-P3XTlP4wy7L6tLWvg6pNXVY8HRE4_GGDoED0ylRqTXECUoy9bt4YFvudT1BFwqM6-DM5QTSRb-36znB7m1NvZRA6d4zNG_3bqwSvPtyrwnW4rw3u8IAGtIoqpT6t8__t_h-XqE/s640/Milan+Dean+Wiley+-+Headstone.jpg" width="640" />
-<img height="366" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwGUzasHL6lc99Q5M2gv4xOIIeR01nrda0aAYzzQQPUZh6lLRIjfVtTLWnY4cNltcoFn2H6wZzCnF-n58TPs4TmH9FxDy_sfUOia8Bx-gt0mLro8vhoniIG93hROpjMKDwhySCKth-8JV1/s640/Betty+Virginia+Miller+-+Headstone.jpg" width="640" />
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEharjcCl-P3XTlP4wy7L6tLWvg6pNXVY8HRE4_GGDoED0ylRqTXECUoy9bt4YFvudT1BFwqM6-DM5QTSRb-36znB7m1NvZRA6d4zNG_3bqwSvPtyrwnW4rw3u8IAGtIoqpT6t8__t_h-XqE/s1600/Milan+Dean+Wiley+-+Headstone.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="368" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEharjcCl-P3XTlP4wy7L6tLWvg6pNXVY8HRE4_GGDoED0ylRqTXECUoy9bt4YFvudT1BFwqM6-DM5QTSRb-36znB7m1NvZRA6d4zNG_3bqwSvPtyrwnW4rw3u8IAGtIoqpT6t8__t_h-XqE/s640/Milan+Dean+Wiley+-+Headstone.jpg" width="640" /></a></div>
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwGUzasHL6lc99Q5M2gv4xOIIeR01nrda0aAYzzQQPUZh6lLRIjfVtTLWnY4cNltcoFn2H6wZzCnF-n58TPs4TmH9FxDy_sfUOia8Bx-gt0mLro8vhoniIG93hROpjMKDwhySCKth-8JV1/s1600/Betty+Virginia+Miller+-+Headstone.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="366" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwGUzasHL6lc99Q5M2gv4xOIIeR01nrda0aAYzzQQPUZh6lLRIjfVtTLWnY4cNltcoFn2H6wZzCnF-n58TPs4TmH9FxDy_sfUOia8Bx-gt0mLro8vhoniIG93hROpjMKDwhySCKth-8JV1/s640/Betty+Virginia+Miller+-+Headstone.jpg" width="640" /></a></div>
 
 <div abp="38" style="font-family: &quot;times new roman&quot;; text-align: center;">
 

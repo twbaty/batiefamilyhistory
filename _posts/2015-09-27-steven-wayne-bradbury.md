@@ -106,7 +106,7 @@ PFC Robert J. Sires, Spring Grove, MN (medic with D/2/2 Inf)&nbsp;</i>
 <span style="color: #333333; font-family: inherit;">
 </span></div>
 
-<img height="156" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDGUH2Jy6nOCtImOvlzPToVriLFqAHg587xqjZfF3c5gCJ7i12RCChvvG4QT-xA7M4B2gZOZy9crGS9V2qiT8VsOf97AZXvpZsFe181x7pQwkOg3cDYLCtTiEJzIQSDAa5_m0cGToq46Z/s640/Steven+Wayne+Bradbury+-+No+Place+To+Hide+-+Excerpt.jpg" width="640" />
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDGUH2Jy6nOCtImOvlzPToVriLFqAHg587xqjZfF3c5gCJ7i12RCChvvG4QT-xA7M4B2gZOZy9crGS9V2qiT8VsOf97AZXvpZsFe181x7pQwkOg3cDYLCtTiEJzIQSDAa5_m0cGToq46Z/s1600/Steven+Wayne+Bradbury+-+No+Place+To+Hide+-+Excerpt.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="156" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDGUH2Jy6nOCtImOvlzPToVriLFqAHg587xqjZfF3c5gCJ7i12RCChvvG4QT-xA7M4B2gZOZy9crGS9V2qiT8VsOf97AZXvpZsFe181x7pQwkOg3cDYLCtTiEJzIQSDAa5_m0cGToq46Z/s640/Steven+Wayne+Bradbury+-+No+Place+To+Hide+-+Excerpt.jpg" width="640" /></a></div>
 
 <div>
 <span style="color: #333333; font-family: inherit;">

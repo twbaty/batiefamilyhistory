@@ -18,7 +18,14 @@ This is a leg of my family I was not expecting. My 8th Great-Grandfather is from
 </blockquote>
 
 <p>The Palatinate was generally in the below area.</p>
-<img height="282" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoulGRxd-csVwgasjgYw1crM7vq2dRKv4gyGl40-GDaCsRtrcnMjvHTg4eJzVugPfIU1hP9bELAkFJlQ99KG8J-2zL8RYbPyK5VITYYDRXUPJZdL3W7p-h3_CkyRbXI_0XUQ_p_Lj467gd3wXa6HPvI-DP-A6NnqaVmpNbcyCQ1gZ4rJopr0SkCX5W3af4/s320/Palatine.jpg" width="320" />
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoulGRxd-csVwgasjgYw1crM7vq2dRKv4gyGl40-GDaCsRtrcnMjvHTg4eJzVugPfIU1hP9bELAkFJlQ99KG8J-2zL8RYbPyK5VITYYDRXUPJZdL3W7p-h3_CkyRbXI_0XUQ_p_Lj467gd3wXa6HPvI-DP-A6NnqaVmpNbcyCQ1gZ4rJopr0SkCX5W3af4/s922/Palatine.jpg" style="margin-left: 1em; margin-right: 1em;"><img height="282" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhoulGRxd-csVwgasjgYw1crM7vq2dRKv4gyGl40-GDaCsRtrcnMjvHTg4eJzVugPfIU1hP9bELAkFJlQ99KG8J-2zL8RYbPyK5VITYYDRXUPJZdL3W7p-h3_CkyRbXI_0XUQ_p_Lj467gd3wXa6HPvI-DP-A6NnqaVmpNbcyCQ1gZ4rJopr0SkCX5W3af4/s320/Palatine.jpg" width="320" /></a></div>
+
+<div class="post-image">
+</div>
+
+<div class="post-image">
+</div>
 
 The peoples of the Palatinate had endured several wars (The Thirty Years War, War of the Spanish Succession), starvation, French plundering, and persecution.&nbsp; Around 1708 it was becoming clear to the people of the Palatinate that life was not getting better, and they had to find a solution.
 <p>Johann Cording left for America.&nbsp; He arrived on a ship named <i>Baltimore </i>Captained by Bartholomew Whitehorne.&nbsp; The exact date Johann arrived is unclear, but it is estimated he arrived in June 1710.&nbsp;&nbsp;</p>
@@ -32,8 +39,14 @@ The peoples of the Palatinate had endured several wars (The Thirty Years War, Wa
 <p>In 1712, Johann is noted to have 3 persons over 10 and 1 person under 10.</p>
 
 <p>Research published by Henry Z Jones, The Palatine Families of New York, says Johann (Rodolf Caring in the book) was one of the original 12 trustees of the Fort Herkimer Church in 1730.</p>
-<img height="232" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeIrR2A4imxd5teyIzpehKZ4czknuAbm2HvmyCL7cGgqYaCGV1qlthibQu8pI4pPosqzbBKTnoqUFggO12n5yjMhwXw7FR2WQnWVsrv8EYdCei8ukMYrF_8lWeyEge5g0WE47lIJGVI4EjTjoGDksuCYC5g6O6DhOv6XfdNYYru1xWxXxFslz4oESEbZXP/s320/Fort_Herkimer_Church,_Herkimer_(Herkimer_County,_New_York).jpg" width="320" />
-The church published a booklet on the history of the church.&nbsp; Interestingly, the first name mentioned is "...Johan Jost Herkimer, father of Nicholas..."&nbsp; It goes on to say construction on the fort or the church didn't start until sometime into 1740 and the church wasn't finished until 1751.
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeIrR2A4imxd5teyIzpehKZ4czknuAbm2HvmyCL7cGgqYaCGV1qlthibQu8pI4pPosqzbBKTnoqUFggO12n5yjMhwXw7FR2WQnWVsrv8EYdCei8ukMYrF_8lWeyEge5g0WE47lIJGVI4EjTjoGDksuCYC5g6O6DhOv6XfdNYYru1xWxXxFslz4oESEbZXP/s562/Fort_Herkimer_Church,_Herkimer_(Herkimer_County,_New_York).jpg" style="margin-left: 1em; margin-right: 1em;"><img height="232" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeIrR2A4imxd5teyIzpehKZ4czknuAbm2HvmyCL7cGgqYaCGV1qlthibQu8pI4pPosqzbBKTnoqUFggO12n5yjMhwXw7FR2WQnWVsrv8EYdCei8ukMYrF_8lWeyEge5g0WE47lIJGVI4EjTjoGDksuCYC5g6O6DhOv6XfdNYYru1xWxXxFslz4oESEbZXP/s320/Fort_Herkimer_Church,_Herkimer_(Herkimer_County,_New_York).jpg" width="320" /></a></div>
+
+<div class="post-image">
+</div>
+
+<div class="post-image">The church published a booklet on the history of the church.&nbsp; Interestingly, the first name mentioned is "...Johan Jost Herkimer, father of Nicholas..."&nbsp; It goes on to say construction on the fort or the church didn't start until sometime into 1740 and the church wasn't finished until 1751.</div>
+
 <div>
 </div>
 In a book by H. Paul Draheim, Paul notes that in "...1722 a blockhouse and a church were erected in Herkimer, the church being on the site of the present Reformed Church."

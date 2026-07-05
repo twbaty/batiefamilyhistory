@@ -17,7 +17,7 @@ RIP Dwayne....
 
  
 
-<img height="272" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguz27qMCyAxZLC7n-EowURKfzaNSx5l4fwRAWEypJyi6hf_M-aAWYQXfSTg9nj2-IwvhMbcp8hj05c_A4uwJcUiB7fmzRfQCi4aazpqA1CcE7wvDi9W3MtYLJOvdP2O1bp4aioLXmfObV1/s320/Dwayne+A+Batie+-+Death+Notice.jpg" width="320" />
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguz27qMCyAxZLC7n-EowURKfzaNSx5l4fwRAWEypJyi6hf_M-aAWYQXfSTg9nj2-IwvhMbcp8hj05c_A4uwJcUiB7fmzRfQCi4aazpqA1CcE7wvDi9W3MtYLJOvdP2O1bp4aioLXmfObV1/s1600/Dwayne+A+Batie+-+Death+Notice.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="272" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguz27qMCyAxZLC7n-EowURKfzaNSx5l4fwRAWEypJyi6hf_M-aAWYQXfSTg9nj2-IwvhMbcp8hj05c_A4uwJcUiB7fmzRfQCi4aazpqA1CcE7wvDi9W3MtYLJOvdP2O1bp4aioLXmfObV1/s320/Dwayne+A+Batie+-+Death+Notice.jpg" width="320" /></a></div>
 
 <div abp="38" style="font-family: &quot;times new roman&quot;; text-align: center;">
 

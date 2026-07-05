@@ -31,24 +31,61 @@ published: true
 
 <p>
 </p>
-<img alt="" height="148" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZYaaovmPdKCEGBJ3dRgg_FDrRYHYhNL7KZ2fyoHbb2ADAPrPn7lV2dSHdF1shbYQNkhUmp3wTo7tE-MecK0eudPPjZmUZyqQlTmU_Uh8CR9SVsba8wDLId4oYsEO1EulXJXj8YTMkAlfN/w400-h148/image.png" width="400" />
 
-<img alt="" height="91" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKBB_mue64emIu5F1rvzaw3Vw7yDPaYYnkVv-reowWAU2BIx0GRZALYNbv3Ve1EEe8h1TSJ2xQ8CRszpl2TYoQVoWrtr7PHr6It6TZIujaZfbz6XBVwwUjEQFKwGVkbt9hll-Cw4nQ90E/w400-h91/image.png" width="400" />
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZYaaovmPdKCEGBJ3dRgg_FDrRYHYhNL7KZ2fyoHbb2ADAPrPn7lV2dSHdF1shbYQNkhUmp3wTo7tE-MecK0eudPPjZmUZyqQlTmU_Uh8CR9SVsba8wDLId4oYsEO1EulXJXj8YTMkAlfN/" style="margin-left: 1em; margin-right: 1em;"><img alt="" height="148" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZYaaovmPdKCEGBJ3dRgg_FDrRYHYhNL7KZ2fyoHbb2ADAPrPn7lV2dSHdF1shbYQNkhUmp3wTo7tE-MecK0eudPPjZmUZyqQlTmU_Uh8CR9SVsba8wDLId4oYsEO1EulXJXj8YTMkAlfN/w400-h148/image.png" width="400" /></a></div>
 
-<img alt="" height="133" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghAz2qZIldFVnpvd0UHSiSmRGr673r1LZetUzO14wQXoS7rSKNlZMkPPeb2xudzVm5gGUiuzUf6Lji5T75nx8BlMG7H8_Lb9KvA_kBf6lMLVhwygNPUXDg6LFzSIdUoglq4VJdlZS1Ugru/w400-h133/image.png" width="400" />
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKBB_mue64emIu5F1rvzaw3Vw7yDPaYYnkVv-reowWAU2BIx0GRZALYNbv3Ve1EEe8h1TSJ2xQ8CRszpl2TYoQVoWrtr7PHr6It6TZIujaZfbz6XBVwwUjEQFKwGVkbt9hll-Cw4nQ90E/" style="margin-left: 1em; margin-right: 1em;"><img alt="" height="91" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBKBB_mue64emIu5F1rvzaw3Vw7yDPaYYnkVv-reowWAU2BIx0GRZALYNbv3Ve1EEe8h1TSJ2xQ8CRszpl2TYoQVoWrtr7PHr6It6TZIujaZfbz6XBVwwUjEQFKwGVkbt9hll-Cw4nQ90E/w400-h91/image.png" width="400" /></a></div>
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghAz2qZIldFVnpvd0UHSiSmRGr673r1LZetUzO14wQXoS7rSKNlZMkPPeb2xudzVm5gGUiuzUf6Lji5T75nx8BlMG7H8_Lb9KvA_kBf6lMLVhwygNPUXDg6LFzSIdUoglq4VJdlZS1Ugru/" style="margin-left: 1em; margin-right: 1em;"><img alt="" height="133" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghAz2qZIldFVnpvd0UHSiSmRGr673r1LZetUzO14wQXoS7rSKNlZMkPPeb2xudzVm5gGUiuzUf6Lji5T75nx8BlMG7H8_Lb9KvA_kBf6lMLVhwygNPUXDg6LFzSIdUoglq4VJdlZS1Ugru/w400-h133/image.png" width="400" /></a></div>
 
 <p>I'm unaware of where I liberated the below photos.&nbsp; I would be beyond happy to provide credit if I were to learn it.&nbsp;&nbsp;</p>
 
 <p style="text-align: center;"><b>PHOTOS</b></p>
-<img alt="" height="364" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp_rOK_b5jQJ8Lcu0hmr6VRYSUkpNAZBk2TcPmywh_9BsbuuxeOImPKdMw218iTJXVWtRKCkAuQ-P9SHkpqEEm8_sdzn7I3DW0l6DEIML-v4rKQK368AhBHka0Yp0ATQoGiXdIMzQCPTD5/w400-h364/image.png" width="400" />L-R: Mary Eliza, brother Henry Batie, husband James Neal,&nbsp;father Thomas Batie &amp; brother Adam Batie seated in rear, Sac Co., Iowa,1903.
-<span face="&quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" style="background-color: whitesmoke; color: #333333; font-size: 16px; text-align: start; white-space: pre-wrap;">
-</span><span face="&quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" style="background-color: whitesmoke; color: #333333; font-size: 16px; text-align: start; white-space: pre-wrap;">
-</span><span face="&quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" style="background-color: whitesmoke; color: #333333; font-size: 16px; text-align: start; white-space: pre-wrap;">
-</span><span face="&quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" style="background-color: whitesmoke; color: #333333; font-size: 16px; text-align: start; white-space: pre-wrap;">
-<div class="separator" style="clear: both; text-align: center;"><img alt="" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMiP8WFGgoPz4IsxfDQodOBLDEruR4zP29B-e-pihFlfuwzioe9O__2xcVgnv_1C5XEXLB4VTEV73Fs0dEV9v0tOUEMqd-7M_AsVFcDkG1gIYw4iQSj7dbozaK-KSP0zXHLLdmkqgfOTv6/w459-h640/image.png" width="459" />
-Thomas Baty<i>CGG</i>
 
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp_rOK_b5jQJ8Lcu0hmr6VRYSUkpNAZBk2TcPmywh_9BsbuuxeOImPKdMw218iTJXVWtRKCkAuQ-P9SHkpqEEm8_sdzn7I3DW0l6DEIML-v4rKQK368AhBHka0Yp0ATQoGiXdIMzQCPTD5/" style="margin-left: 1em; margin-right: 1em;"><img alt="" height="364" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp_rOK_b5jQJ8Lcu0hmr6VRYSUkpNAZBk2TcPmywh_9BsbuuxeOImPKdMw218iTJXVWtRKCkAuQ-P9SHkpqEEm8_sdzn7I3DW0l6DEIML-v4rKQK368AhBHka0Yp0ATQoGiXdIMzQCPTD5/w400-h364/image.png" width="400" /></a></div>
+
+<div class="post-image">L-R: Mary Eliza, brother Henry Batie, husband James Neal,&nbsp;</div>
+
+<div class="post-image">father Thomas Batie &amp; brother Adam Batie seated in rear, Sac Co., Iowa,1903.</div>
+
+<div class="post-image">
+</div>
+
+<div class="post-image"><span face="&quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" style="background-color: whitesmoke; color: #333333; font-size: 16px; text-align: start; white-space: pre-wrap;">
+</span></div>
+
+<div class="post-image"><span face="&quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" style="background-color: whitesmoke; color: #333333; font-size: 16px; text-align: start; white-space: pre-wrap;">
+</span></div>
+
+<div class="post-image"><span face="&quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" style="background-color: whitesmoke; color: #333333; font-size: 16px; text-align: start; white-space: pre-wrap;">
+</span></div>
+
+<div class="post-image"><span face="&quot;Source Sans Pro&quot;, &quot;Helvetica Neue&quot;, Arial, sans-serif" style="background-color: whitesmoke; color: #333333; font-size: 16px; text-align: start; white-space: pre-wrap;">
+<div class="separator" style="clear: both; text-align: center;"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMiP8WFGgoPz4IsxfDQodOBLDEruR4zP29B-e-pihFlfuwzioe9O__2xcVgnv_1C5XEXLB4VTEV73Fs0dEV9v0tOUEMqd-7M_AsVFcDkG1gIYw4iQSj7dbozaK-KSP0zXHLLdmkqgfOTv6/" style="margin-left: 1em; margin-right: 1em;"><img alt="" height="640" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMiP8WFGgoPz4IsxfDQodOBLDEruR4zP29B-e-pihFlfuwzioe9O__2xcVgnv_1C5XEXLB4VTEV73Fs0dEV9v0tOUEMqd-7M_AsVFcDkG1gIYw4iQSj7dbozaK-KSP0zXHLLdmkqgfOTv6/w459-h640/image.png" width="459" /></a></div>
+
+<div class="post-image">
+</div>
+
+<div class="post-image">Thomas Baty</div>
+
+<div class="post-image"><i>CGG</i></div>
+
+<div class="post-image">
+</div>
+
+<div class="post-image">
+</div>
+
+<div class="post-image">
+</div>
+
+<div class="post-image">
+</div>
+
+<div class="post-image">
 <div abp="38" style="color: black; font-family: &quot;times new roman&quot;; font-size: medium; text-align: center; white-space: normal;">
 <div abp="883">~ Tom ~</div>
+
+</div>
 <center abp="39" style="color: black; font-family: &quot;times new roman&quot;; font-size: medium; white-space: normal;"><i abp="40" style="font-family: &quot;Book Antiqua&quot;;">CADECBAB</i></center><center abp="41" style="color: black; font-size: medium; white-space: normal;"><span style="font-family: &quot;book antiqua&quot;;"><i>12 Dec 2021</i></span></center></div>
 </span></div>

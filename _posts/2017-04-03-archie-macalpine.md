@@ -48,7 +48,7 @@ Archie&nbsp;died on Jul 4, 1952 in Cass City, MI.&nbsp; Authorities assert he cu
 </div>
 
 <div abp="113" class="separator" style="clear: both; text-align: center;">
-<img abp="115" height="133" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMENzWPZXtbFcpEy830O3e79mTgFgJQvNT-lkkSbG5OkIrDapYo0Qm_KubCoEzt2KsD-_nwApJuY-Ma2w8oFDiQtqDAE3MngpJu0BVx5ZsifzrR-8pariTs7I1GtwxEfhYUUdUAc1HZfbD/s320/Archie+MacAlpine+-+Cause+of+Death.jpg" width="320" /></div>
+<a abp="114" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMENzWPZXtbFcpEy830O3e79mTgFgJQvNT-lkkSbG5OkIrDapYo0Qm_KubCoEzt2KsD-_nwApJuY-Ma2w8oFDiQtqDAE3MngpJu0BVx5ZsifzrR-8pariTs7I1GtwxEfhYUUdUAc1HZfbD/s1600/Archie+MacAlpine+-+Cause+of+Death.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img abp="115" height="133" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMENzWPZXtbFcpEy830O3e79mTgFgJQvNT-lkkSbG5OkIrDapYo0Qm_KubCoEzt2KsD-_nwApJuY-Ma2w8oFDiQtqDAE3MngpJu0BVx5ZsifzrR-8pariTs7I1GtwxEfhYUUdUAc1HZfbD/s320/Archie+MacAlpine+-+Cause+of+Death.jpg" width="320" /></a></div>
 
 <div abp="16">
 

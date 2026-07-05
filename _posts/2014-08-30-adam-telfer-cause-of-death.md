@@ -13,8 +13,13 @@ He died 21 Oct 1879 at 48 years old. &nbsp;He was a merchant. &nbsp;Looks like T
 
 OK, now I wonder how he lived. &nbsp;What could have caused him to have taken his own life? &nbsp;And in such a deliberate way. &nbsp;What was going on that was that bad?
 
-<img height="263" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9l_rmVSEg2Ib2GJcPA1Jr2p-RnlyYejHUDa0pprh6ftfl8wHNLgJOV-I5vsHxJemiAlXItqukT-eBqinIOPqaZnlQUlCIZgVjToxy_ByOaeCmsWujGGZ220Bour1anmnTFy2VsXEHzkrB/s1600/Adam+Telfer+-+Death+Record.bmp" width="320" />
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9l_rmVSEg2Ib2GJcPA1Jr2p-RnlyYejHUDa0pprh6ftfl8wHNLgJOV-I5vsHxJemiAlXItqukT-eBqinIOPqaZnlQUlCIZgVjToxy_ByOaeCmsWujGGZ220Bour1anmnTFy2VsXEHzkrB/s1600/Adam+Telfer+-+Death+Record.bmp" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="263" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9l_rmVSEg2Ib2GJcPA1Jr2p-RnlyYejHUDa0pprh6ftfl8wHNLgJOV-I5vsHxJemiAlXItqukT-eBqinIOPqaZnlQUlCIZgVjToxy_ByOaeCmsWujGGZ220Bour1anmnTFy2VsXEHzkrB/s1600/Adam+Telfer+-+Death+Record.bmp" width="320" /></a></div>
 
-~ Tom ~
-<i style="font-family: 'Book Antiqua';">CADECBAB</i>
-<i style="font-family: 'Book Antiqua';">30 Aug 2014</i>
+<div class="post-image">
+</div>
+
+<div class="post-image">~ Tom ~</div>
+
+<div class="post-image"><i style="font-family: 'Book Antiqua';">CADECBAB</i></div>
+
+<div class="post-image"><i style="font-family: 'Book Antiqua';">30 Aug 2014</i></div>

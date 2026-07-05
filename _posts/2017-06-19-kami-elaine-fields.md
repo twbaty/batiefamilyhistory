@@ -17,7 +17,7 @@ What happened to his wife?
 
 I searched Ancestry.com, but did not find anything within a few searches. &nbsp;I then headed over to Newspapers.com. &nbsp;Fortunately, Kami is a fairly unique name. &nbsp;Bingo! &nbsp;I found the unfortunate news...
 
-<img height="428" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDbop1iyGlALMsQtPpqCjPFBblAB8RpDw23CRi6I0vt0fQesH4m8-pVlSY3gk6TEa2by7hE9oF0fH33dkAKKu01mqAfavoTg1btWLpwZp92Ce4DYW4KD9mksvCUpheNFtUu0b0V0dUmQZr/s640/The_Courier_Journal_Sun_Jun_18_1989.jpg" width="640" />
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDbop1iyGlALMsQtPpqCjPFBblAB8RpDw23CRi6I0vt0fQesH4m8-pVlSY3gk6TEa2by7hE9oF0fH33dkAKKu01mqAfavoTg1btWLpwZp92Ce4DYW4KD9mksvCUpheNFtUu0b0V0dUmQZr/s1600/The_Courier_Journal_Sun_Jun_18_1989.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="428" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDbop1iyGlALMsQtPpqCjPFBblAB8RpDw23CRi6I0vt0fQesH4m8-pVlSY3gk6TEa2by7hE9oF0fH33dkAKKu01mqAfavoTg1btWLpwZp92Ce4DYW4KD9mksvCUpheNFtUu0b0V0dUmQZr/s640/The_Courier_Journal_Sun_Jun_18_1989.jpg" width="640" /></a></div>
 
 This is both a good find (genealogically) and a horrible find. &nbsp;I feel awful for their family. &nbsp;At least I now know.
 

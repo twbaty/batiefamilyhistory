@@ -25,9 +25,18 @@ published: true
 </p>
 
 <p>&nbsp;So, do I document him in the Family Tree as Willie or Billie?</p>
-<img height="188" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUtUMKfkY4RPDBgPxcqJpt-0L3qoFamcQBPxMvg7h4fFDQ_Y_VUgUszxYHriASF45tb25WdyKxfmmp_Dof3huIYLKze8_1ZJsOmKaJNs19m88GbEpaDrfQleKKuu-0pasBRKAxA5bqRv45MAAfKXmSxGndAg5W0h4vOCN15BmuFEhSILQ0qK_p7oApwP6f/w400-h188/SM1920Census.jpg" width="400" />&nbsp;<img height="269" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7QGJG1CjKfMvN6rUv4QacoW7Xkc_MPWPLewu2rdzxYhAmSqWfg3nmKjDiXAfzNN4yo4Bmimhscfn1mQ0UF_CJ453X8y--kaX48rTaxx4_7kPJyyiiPtOo7fYleU7i3bYgh29mItPqflqErSdjKK0Hi2TrxX5Z2BtrFntJZHV4LJAWokfdgUD3G_-ZuxUy/w400-h269/SMWWII.jpg" width="400" />
-<img height="191" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA0Ych66muIDpUinrkTNgPMSusfu4sz2YC3laPRZkvA6uUMxjRXDwlIKy2WheXjh_nbHM33AiiCTWdpB9kyxbk5Vewa6UZMGBVBAKJMlWuhkQj6TfxrREZMf_spnvKQYrf9-ahpkjEhXfTAWGJSpN3kZbEd3XTor-l5GcRfSu-rEzzi1QS8jkGSvscR60Z/w400-h191/SMLicense.jpg" width="400" />
-<img height="178" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOT_adc63vZybcR3htHdA-Ek4LTEXyCF-gPYsnIpgm2KicVb3Sc3ySK9Vh5bIzmqD2zV9lcPMEgs7-7h93BYkD4sGwFly1bpCmjuHd5LJUITA_ryjuvJhVVY8X9-n1lY8ltlpWmYurb_Ln3awkwSKfO0vhr9CAi5YJPCxTQdyhGkQVn-lUiMrkrpr713h2/w400-h178/SMHeadstone.jpg" width="400" /> 
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUtUMKfkY4RPDBgPxcqJpt-0L3qoFamcQBPxMvg7h4fFDQ_Y_VUgUszxYHriASF45tb25WdyKxfmmp_Dof3huIYLKze8_1ZJsOmKaJNs19m88GbEpaDrfQleKKuu-0pasBRKAxA5bqRv45MAAfKXmSxGndAg5W0h4vOCN15BmuFEhSILQ0qK_p7oApwP6f/s507/SM1920Census.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="188" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUtUMKfkY4RPDBgPxcqJpt-0L3qoFamcQBPxMvg7h4fFDQ_Y_VUgUszxYHriASF45tb25WdyKxfmmp_Dof3huIYLKze8_1ZJsOmKaJNs19m88GbEpaDrfQleKKuu-0pasBRKAxA5bqRv45MAAfKXmSxGndAg5W0h4vOCN15BmuFEhSILQ0qK_p7oApwP6f/w400-h188/SM1920Census.jpg" width="400" /></a></div>
+
+&nbsp;
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7QGJG1CjKfMvN6rUv4QacoW7Xkc_MPWPLewu2rdzxYhAmSqWfg3nmKjDiXAfzNN4yo4Bmimhscfn1mQ0UF_CJ453X8y--kaX48rTaxx4_7kPJyyiiPtOo7fYleU7i3bYgh29mItPqflqErSdjKK0Hi2TrxX5Z2BtrFntJZHV4LJAWokfdgUD3G_-ZuxUy/s877/SMWWII.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="269" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7QGJG1CjKfMvN6rUv4QacoW7Xkc_MPWPLewu2rdzxYhAmSqWfg3nmKjDiXAfzNN4yo4Bmimhscfn1mQ0UF_CJ453X8y--kaX48rTaxx4_7kPJyyiiPtOo7fYleU7i3bYgh29mItPqflqErSdjKK0Hi2TrxX5Z2BtrFntJZHV4LJAWokfdgUD3G_-ZuxUy/w400-h269/SMWWII.jpg" width="400" /></a></div>
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA0Ych66muIDpUinrkTNgPMSusfu4sz2YC3laPRZkvA6uUMxjRXDwlIKy2WheXjh_nbHM33AiiCTWdpB9kyxbk5Vewa6UZMGBVBAKJMlWuhkQj6TfxrREZMf_spnvKQYrf9-ahpkjEhXfTAWGJSpN3kZbEd3XTor-l5GcRfSu-rEzzi1QS8jkGSvscR60Z/s898/SMLicense.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="191" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA0Ych66muIDpUinrkTNgPMSusfu4sz2YC3laPRZkvA6uUMxjRXDwlIKy2WheXjh_nbHM33AiiCTWdpB9kyxbk5Vewa6UZMGBVBAKJMlWuhkQj6TfxrREZMf_spnvKQYrf9-ahpkjEhXfTAWGJSpN3kZbEd3XTor-l5GcRfSu-rEzzi1QS8jkGSvscR60Z/w400-h191/SMLicense.jpg" width="400" /></a></div>
+
+<div class="post-image"><a target="_blank" href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOT_adc63vZybcR3htHdA-Ek4LTEXyCF-gPYsnIpgm2KicVb3Sc3ySK9Vh5bIzmqD2zV9lcPMEgs7-7h93BYkD4sGwFly1bpCmjuHd5LJUITA_ryjuvJhVVY8X9-n1lY8ltlpWmYurb_Ln3awkwSKfO0vhr9CAi5YJPCxTQdyhGkQVn-lUiMrkrpr713h2/s855/SMHeadstone.jpg" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img height="178" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOT_adc63vZybcR3htHdA-Ek4LTEXyCF-gPYsnIpgm2KicVb3Sc3ySK9Vh5bIzmqD2zV9lcPMEgs7-7h93BYkD4sGwFly1bpCmjuHd5LJUITA_ryjuvJhVVY8X9-n1lY8ltlpWmYurb_Ln3awkwSKfO0vhr9CAi5YJPCxTQdyhGkQVn-lUiMrkrpr713h2/w400-h178/SMHeadstone.jpg" width="400" /></a></div>
+
+ 
 
 <div style="text-align: center;">~ Tom ~</div>
 
