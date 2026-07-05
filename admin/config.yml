@@ -3,7 +3,7 @@ backend:
   repo: twbaty/batiefamilyhistory
   branch: main
   auth_type: pkce
-  app_id: REPLACE_WITH_YOUR_OAUTH_APP_CLIENT_ID
+  app_id: Ov23liiK6cEnrxWWhP1G
 
 media_folder: "assets/images/uploads"
 public_folder: "/batiefamilyhistory/assets/images/uploads"
